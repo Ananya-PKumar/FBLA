@@ -1,4 +1,4 @@
-**#Welcome to the GPA Calculator!**
+**#Welcome to the GPA Calculator!#**
 
 **Overview**
 
