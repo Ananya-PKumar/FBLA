@@ -1,4 +1,4 @@
-# The largest heading
+# Welcome to the GPA Calculator!
 
 **Overview**
 
